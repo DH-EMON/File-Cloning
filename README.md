@@ -1,2 +1,2 @@
-# File-Cloning
+# File-Clone
 Enjoy everyone 😊
